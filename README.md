@@ -29,10 +29,6 @@ Analytics-BI-End-of-module-satisfaction-surveys
       <img src="Dashboard-Preview/5 - Comments and remarks.jpg" width="100%">
       <br><b>05. Comments & Remarks</b>
     </td>
-    <td align="center" width="50%">
-      <img src="Dashboard-Preview/6 - Additional analysis.jpg" width="100%">
-      <br><b>06. Additional Analysis</b>
-    </td>
   </tr>
 </table>
 
