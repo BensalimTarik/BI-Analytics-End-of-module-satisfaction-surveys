@@ -7,27 +7,27 @@ Analytics-BI-End-of-module-satisfaction-surveys
   <tr>
     <td align="center" width="50%">
       <img src="Dashboard-Preview/1 - C&D Network.jpg" width="100%">
-      <br><b>01. Global Survey Overview</b>
+      <br><b>01. C&D Network</b>
     </td>
     <td align="center" width="50%">
       <img src="Dashboard-Preview/2 - Overall module satisfaction.jpg" width="100%">
-      <br><b>02. Overall Module Satisfaction</b>
+      <br><b>02. Overall module satisfaction</b>
     </td>
   </tr>
   <tr>
     <td align="center" width="50%">
       <img src="Dashboard-Preview/3 - Satisfaction detailed by modules.jpg" width="100%">
-      <br><b>03. Detailed Satisfaction by Module</b>
+      <br><b>03. Satisfaction detailed by modules</b>
     </td>
     <td align="center" width="50%">
       <img src="Dashboard-Preview/4 - Top 10 modules.jpg" width="100%">
-      <br><b>04. Satisfaction Analysis by Sentiment</b>
+      <br><b>04. Top 10 modulest</b>
     </td>
   </tr>
   <tr>
     <td align="center" width="50%">
       <img src="Dashboard-Preview/5 - Comments and remarks.jpg" width="100%">
-      <br><b>05. Comments & Remarks</b>
+      <br><b>05. Comments and remarks</b>
     </td>
   </tr>
 </table>
