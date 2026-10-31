@@ -1,15 +1,12 @@
 # BI-Analytics-End-of-module-satisfaction-surveys
 Analytics-BI-End-of-module-satisfaction-surveys
-# BI & Analytics – End-of-Module Satisfaction Surveys
-
-# End-of-Module Satisfaction Analysis – Power BI
 
 ## Dashboard Gallery
 
 <table>
   <tr>
     <td align="center" width="50%">
-      <img src="Dashboard-Preview/1 - Global responses rate.jpg" width="100%">
+      <img src="Dashboard-Preview/1 - C&D Network.jpg" width="100%">
       <br><b>01. Global Survey Overview</b>
     </td>
     <td align="center" width="50%">
@@ -23,7 +20,7 @@ Analytics-BI-End-of-module-satisfaction-surveys
       <br><b>03. Detailed Satisfaction by Module</b>
     </td>
     <td align="center" width="50%">
-      <img src="Dashboard-Preview/4 - Satisfaction by sentiment.jpg" width="100%">
+      <img src="Dashboard-Preview/4 - Top 10 modules.jpg" width="100%">
       <br><b>04. Satisfaction Analysis by Sentiment</b>
     </td>
   </tr>
